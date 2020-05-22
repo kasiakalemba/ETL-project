@@ -34,7 +34,13 @@
     -	Airlines (IATA_Code = Primary Key)
     -	Cancellation Code (Cancellation_Reason_Code = Primary Key)
 
-
+**Steps to Load the Data**
+* Download all the files from the repository
+* Invoke PostgreSQL server
+* Create database "flight_db"
+* Run the script to create tables and views
+* Load the data into the tables by running jupyter notebook
+* Validate the data, load it into tables in jupyter notebook
 
 **Possible Data Analysis:**
 *	Flight Cancellation Reasons
