@@ -70,7 +70,7 @@ Based on the recent heavy flight cancellations and airport shutdowns, our group 
 * Validate the data loaded into the tables by running Pandas SQL queries in jupyter notebook
 
 **Possible Data Analysis:**
-*	Flight Cancellation Reasons
+*	Flight Cancellation Reasons 
     -	Percentage breakdown of cancellation reasons
     -	Cancellations due to weather by month of the year
     -	Weather Cancellations vs. Latitude
